@@ -10,7 +10,6 @@ GraphNode::~GraphNode() {
 
   // _chatBot is point to stack memory, not heap
   // delete _chatBot;
-  _chatBot = nullptr;
 
   ////
   //// EOF STUDENT CODE
