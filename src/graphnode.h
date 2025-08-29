@@ -2,6 +2,7 @@
 #define GRAPHNODE_H_
 
 #include "chatbot.h"
+#include <memory>
 #include <string>
 #include <vector>
 
